@@ -7,7 +7,7 @@ module.exports = {
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Mr. Frugal', // i.e. Lene Saile - author's name. Must be set.
+  author: 'Mr. & Mrs. Frugal', // i.e. Lene Saile - author's name. Must be set.
   authorEmail: '', // i.e. hola@lenesaile.com - email of the author
   authorWebsite: '', // i.e. https.://www.lenesaile.com - the personal site of the author
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
