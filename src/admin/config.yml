@@ -6,6 +6,8 @@ backend:
 # Media files will be stored in the repo under public/blog/images/uploads
 media_folder: "src/public/blog/images/uploads" 
 
+public_folder: "/blog/images/uploads"
+
 # Enable editing and saving drafts
 publish_mode: editorial_workflow
 

@@ -10,10 +10,11 @@
   },
   "scripts": {
     "clean": "rimraf dist",
+    "optimize": "node src/js/optimize-images.js",
     "dev:11ty": "eleventy --serve --watch",
     "build:11ty": "eleventy",
-    "start": "run-p dev:*",
-    "build": "run-s clean build:*"
+    "start": "run-p optimize dev:*",
+    "build": "run-s clean optimize build:*"
   },
   "keywords": [],
   "repository": {
