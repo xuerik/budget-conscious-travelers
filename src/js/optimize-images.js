@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
 
-const inputDir = 'src/public/blog/images/uploads';
+const inputDir = 'src/assets/images/blog/uploads';
 const outputDir = 'dist/blog/images/uploads/';
 
 // Check if the output directory exists, and create it if necessary
@@ -13,7 +13,7 @@ if (!fs.existsSync(outputDir)) {
 
 function convertToJpg(inputPath, outputPath) {
   sharp(inputPath)
-    .toFormat('jpg')
+    .jpeg({quality: 50}) // Set the quality here (0-100)
     .toFile(outputPath, (err, info) => {
       if (err) {
         console.error('Error converting image:', err);
