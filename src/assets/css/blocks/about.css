@@ -1,0 +1,32 @@
+.about-us {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.right-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.left-column h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.left-column p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.right-column img {
+    max-width: 100%;
+    height: auto;
+    border: none;
+}
