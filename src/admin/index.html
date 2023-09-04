@@ -9,6 +9,13 @@
 
     <!-- Netlify Identity Widget -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<!-- Workaround for https://github.com/decaporg/decap-cms/issues/5092 -->
+<style>
+    [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
+    }
+</style>
+
 </head>
 
 <body>
