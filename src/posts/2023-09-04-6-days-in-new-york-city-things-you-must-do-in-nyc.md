@@ -5,11 +5,27 @@ date: 2023-09-04T00:13:55.156Z
 ---
 New York City, also famously known as "The Big Apple", is a place that everyone must visit at least once in their lifetime. The city is rich with history, architecture, and amazingly delicious food from all around the world. May and I went on a 6 day trip this Spring (April) and we'll share with you all the things you must do, places you must see, and the food you must eat!
 
-![Manhattan Bridge with One Manhattan Square behind it](/blog/images/uploads/img_6674.jpg "View of Manhattan Bridge from Pebble Beach")
+![Manhattan Bridge with One Manhattan Square behind it](/blog/images/uploads/manhattan-bridge.jpg "View of Manhattan Bridge from Pebble Beach")
 
 ## Table of Contents
-1. [Pre-trip Preparations](#pre-trip-preparations)
-2. [Things to bring and pack up](#things-to-bring-and-pack-up)
+- [Pre-trip Preparations](#pre-trip-preparations)
+    - [Tip #1: Maximize Vacation Time](#tip-1-maximize-vacation-time)
+- [Things to bring and pack up](#things-to-bring-and-pack-up)
+    - [Tip #2: Save money by using credit card cash back rewards](#tip-2-save-money-by-using-credit-card-cash-back-rewards)
+- [Things to bring and pack up](#things-to-bring-and-pack-up)
+    - [Luggages](#luggages)
+    - [Toiletries](#toiletries)
+    - [Tip #3: Get transparent bags/pouches for toiletries](#tip-3-get-transparent-bagspouches-for-toiletries)
+    - [DIY First Aid Kit](#diy-first-aid-kit)
+    - [Clothing, Accessories](#clothing-accessories)
+    - [Electronics, Gadgets](#electronics-gadgets)
+    - [Tip #4: External batteries (power bank) are a must](#tip-4-external-batteries-power-bank-are-a-must)
+    - [Tip #5: "Cash is King"](#tip-5-cash-is-king)
+- [Heading to the airport](#heading-to-the-airport)
+    - [Transportation](#transportation)
+    - [Timing Guidelines](#timing-guidelines)
+    - [Tip #6: Airport Tricks to Save Time](#tip-6-airport-tricks-to-save-time)
+
 
 ## Pre-trip Preparations
 
@@ -26,7 +42,7 @@ The reason behind this is that the flight itself is about 5-6 hours and combined
 
 If you're flying out at 9-10 PM or later, you will likely arrive in the early morning which is perfect way to start your day! This also assumes that you can sleep easily on planes and aren't bothered by cabin noises and crying babies. 
 
-Invest in a good set of noise-cancelling headphones. I hear that the [Sony WH-1000XM5](https://amzn.to/3sDTRAz) headphones are pretty good.
+Invest in a good set of noise-cancelling headphones. I hear the [Sony WH-1000XM5](https://amzn.to/3sDTRAz) headphones are pretty good.
 
 #### Rescheduling our flight to extend our trip by a day
 
@@ -38,7 +54,7 @@ Because our departure date was still slightly over 2 weeks away, the specialist 
 
 I was not quite satisfied paying $230/person/one-way flight, but unfortunately this was the only time in the year that May had free time in her schedule 😭. According to [Google Flights price tracker](https://www.google.com/travel/flights?hl=en-US), the typical price ranges between $300-$400 roundtrip/person this time of the year so we did end up overpaying a bit. 
 
-#### Save money by using credit card cash back rewards
+#### Tip #2: Save money by using credit card cash back rewards
 
 But I was prepared for such a situation and I had cash back reward points saved up from using my Chase Freedom Flex and Freedom Unlimited credit cards. Instead of shelling out $460 out of pocket, I redeemed 36,800 points (100 points = $1) instead. 
 
@@ -54,7 +70,7 @@ We have been using an American Tourister carry-on luggage that we bought 5 years
 
 Since both of our flights to and from NYC only allowed 1 carry-on per person, we had to be creative with packing up our belongings. 
 
-##### Tip #2: Get transparent bags/pouches for toiletries
+##### Tip #3: Get transparent bags/pouches for toiletries
 I highly recommend using transparent toiletry bags such as the one below to carry tooth brushes, shaver, and mini [travel bottles](https://amzn.to/45MOhu2) for body wash, shampoo, and conditioner. 
 
 We bought ours locally from Daiso, but the one linked here should work just as well! 
@@ -135,3 +151,36 @@ Additionally, put everything in your pockets into your backpack. This includes y
 
 This is a system that I've developed over the years of traveling to make it convenient for myself, to reduce travel anxiety, and to expedite the security process!
 
+### Arrival
+
+#### Directions to the AirTrain
+Since both May and I come from East Asian ancestry, our first stop in New York had to be Flushing! Flying into LaGuardia Airport would have been preferred since it's only 10 minutes away from Flushing but there weren't many flights from LAX to LGA and the prices were overall higher than flights to JFK. Because we were traveling light and also wanted to save money, we opted to take the AirTrain and New York MTA (metro/subway) instead of Uber, Lyft or via taxi.
+
+From terminal 5, the direction to the AirTrain is actually on the 3rd or 4th floor, if I recall correctly. We had thought it was outside and wasted time aimlessly looking for it. If you decide to take the AirTrain, make sure to ask someone and follow signs!
+
+![Sign showing direction to Skywalk at JFK International Airport](/blog/images/uploads/jfk-airtrain-sign.jpg "Sign showing direction to Skywalk at JFK International Airport")
+
+On another note, there are 2 SkyTrain lines: red and green and *only* the green one was running on the day of the trip. Google Maps was telling us to take the red line so it was *unnecessarily* confusing to us why the red line wasn't running. However, we came to realize (after riding 1 stop too far) that we had to take the green line to Federal Circle first and then take transfer to the red line to get to Jamaica 🤦‍♂️.
+
+There was a TV at the Lefferts Blvd stop showing the AirTrain's service map which is available [online](https://www.jfkairport.com/to-from-airport/public-transportation). But it would have been incredibly helpful to tourists if this map was present in the earlier terminals or on the AirTrain itself...🫠 If someone from JFK Airport is reading this, please fix this!
+![Map of AirTrain Service to Jamaica Station on a TV](/blog/images/uploads/directions-to-jamaica-station.jpg "Map of AirTrain Service to Jamaica Station on a TV")
+
+#### Buying Metro Passes
+
+After arriving at Jamaica Station, there is a $8.25 exit fee that you can purchase at either the ticketing machine (right) or at a news stand (left). We bought a 7-day unlimited Subway/Bus card ($33.00 + $1.00 fee) and a single-use AirTrain exit ticket ($8.25 + $1.00 fee) that costed $43.25 total per person. We had done research prior to the trip and discovered that OMNY (the mobile app for the metro/bus) has a maximum fare cap of $34.00 each week. 
+
+![Map of AirTrain Service to Jamaica Station on a TV](/blog/images/uploads/metro-passes.jpg "Map of AirTrain Service to Jamaica Station on a TV")
+
+##### Tip 7: Use OMNY (contactless payment) for the MTA (metro, bus)
+As of August 20, 2023 this is no longer true: 
+~~However, their 7-day period begins on Monday and ends on Sunday, so if your vacation begins in the middle of the week (say Wednesday) then the fare you've paid will reset once the week is over and you'll have to start accumulating toward the $34.00 all over again.~~ Because of this, we chose to buy the 7-day unlimited pass to keep things simple.
+
+According to [OMNY's official website](https://omny.info/fares), the "7-day period" for the maximum fare cap can be started on any day now! This is great and makes it incredibly easy for tourist to decide whether to use OMNY or buy the 7-day unlimited pass as they are now equivalent. Great job, OMNY, for implementing this!
+
+> Effective August 20, you can start any day of the week: pay for 12 rides in a 7-day period and any additional rides are free. And, unlike with MetroCard, you don’t have to pay upfront. Just tap and pay as you go.
+
+##### Tip #8: Buy the 10-trip AirTrain JFK Pass
+
+A mistake that we made was not buying the [10-trip AirTrain pass](https://bulkmetrocard.mta.info/products/10-trip-airtrain-jfk-only-metrocard) for $25.00. This works out to be $2.50/trip which is way less than the $8.25/per person exit fare that we paid at the news stand 😭. Overall, we paid $8.25 x 4 = $33.00 total (roundtrip) for 2 people which is $8.00 more than we should've spent. 
+
+If you and/or your travel companions plan to exceed more than 3 AirTrain trips, it is recommended to get the 10-trip pass which can be shared by everyone in your group.
