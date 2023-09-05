@@ -73,4 +73,10 @@ On our recent trip to New York, we realized that most of the mom-and-pop restaur
 
 On a serious note, smaller denominations ($5s, $10s, $20s), actually, are more convenient as some places may not have the necessary change.
 
+## Things don't always go as planned
+
+Life happens and, sometimes, plans change. But, don't panic because you'll get through it and learn something along the way just like how we did not have to pay full price for our flight even though we extended our trip by a day.
+
+Once you're done planning for your next vacation, see our [airport departure guide for tips on how you can save time and money](/blog/airport-departure-guide-4-ways-to-save-time-and-money/)
+
 Let us know at {{meta.authorEmail}} if you found any of these travel tips useful!
