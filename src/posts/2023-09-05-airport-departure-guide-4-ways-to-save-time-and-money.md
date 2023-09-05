@@ -11,7 +11,7 @@ It's nerve wracking going to the airport even for frequent travelers. In this gu
 ![Group of people in the car](/blog/images/uploads/people-in-the-car.jpg "Group of people in the car")
 Image by <a href="https://www.freepik.com/free-photo/friends-car-having-trip-together_17809336.htm#query=uber&position=15&from_view=search&track=sph">Freepik</a>
 
-When our family members and friends are too busy to take us to the aiport, we usually book an Uber or Lyft. We often find Uber rates to be slightly better, but there's no harm in opening both apps and compare pricing between them.
+When our family members and friends are too busy to take us to the aiport, we usually book an Uber or Lyft. We often find Uber rates to be slightly better, but there's no harm in opening both apps and comparing the price between the two.
 
 Note that both the Chase [Freedom Flex/Freedom Unlimited](https://www.referyourchasecard.com/18j/6G84Q2WADR) and [Sapphire Preferred](https://www.referyourchasecard.com/6j/OCD838ZVKE) credit cards offer 5% cashback for Lyft, so this is something to take into account to get the most bang for your buck.
 
@@ -23,13 +23,15 @@ Note that both the Chase [Freedom Flex/Freedom Unlimited](https://www.referyourc
 
 For domestic flights, we strive to arrive to the airport at least 2 hours before the **departure time**. 
 
-Our reasoning: 
-- 30 minutes for getting tickets and checking in bags (if any)
-- 30 minutes waiting in line and going through TSA
-- 30 minutes to prepare and board on the plane
-- And another 30 minute buffer just in case the lines turn out to be longer than predicted (Missing flights is not fun 😵‍💫)
+Our reasoning behind the 2 hours is this: 
+- 30 minutes for getting boarding passes and checking in bags (if any)
+- 30 minutes waiting in the TSA line and going through security
+- 30 minutes to walk to the departure gate, use the restroom
+- And another 30 minute buffer just in case the lines turn out to be longer or gate is farther than predicted 
 
-If you're flying out of LAX or another busy airport, **plan for the worst**! It doesn't hurt to arrive early!
+We have had our share of missed flights, and it is not fun nor is it a pleasant situation to be in 😵‍💫
+
+If you're flying out of LAX or another busy airport, **plan for the worst**! It does not hurt to arrive early!
 
 ## 3. How to Save Time Checking In
 
