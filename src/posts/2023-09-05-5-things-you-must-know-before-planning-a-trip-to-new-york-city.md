@@ -17,6 +17,8 @@ If you're flying out at 9-10 PM or later, you will likely arrive in the early mo
 
 Invest in a good set of noise-cancelling headphones. I hear the [Sony WH-1000XM5](https://amzn.to/3sDTRAz) headphones are pretty good.
 
+<a href="https://www.amazon.com/Sony-WH-1000XM5-Headphones-Hands-Free-WH1000XM5/dp/B0BXYCS74H?keywords=sony%2Bwh-1000xm5&qid=1693814090&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sony%2B%2Caps%2C152&sr=8-3&th=1&linkCode=li3&tag=budgetconsc07-20&linkId=a2f2096f6f2fb00ec60e72be069a8c5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BXYCS74H&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=budgetconsc07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=budgetconsc07-20&language=en_US&l=li3&o=1&a=B0BXYCS74H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ### Tip #2: Save money by using credit card cash back rewards
 
 May and I had a trip to New York City planned back in April and it would have costed us $460 total for 2 people one-way. Fortunately, I had cash back reward points saved up from using my Chase Freedom Flex and Freedom Unlimited credit cards. Instead of shelling out $460 out of pocket, I only had to redeem 36,800 points (100 points = $1) instead for the entire trip. 
@@ -36,13 +38,15 @@ Whenever we travel, we always like to play it safe and bring our own toiletries 
 
 > For men, clip your nails before flying, and you'll have one less thing to bring!
 
-## Electronics, Gadgets
+### Tip #4: Bring a laptop
 
-Your phone without a doubt is essential, but I like to bring a *light* laptop (Macbook) with me for watching movies and relaxation after a long day of traveling. 
+Your phone without a doubt is essential, but I like to bring a *light* laptop such as a Macbook Air with me for watching movies and relaxation after a long day of traveling. 
 
-It also helps **a lot** when you need to do last minute planning such as researching things to eat and do the next few days. I like to make plans and have a sense of direction, but other folks may be more spontaneous and go with the flow 😝!
+<a href="https://www.amazon.com/Apple-2023-MacBook-Laptop-chip/dp/B0CDJRL5RZ?crid=1FFG2JO0SNCEQ&keywords=macbook%2Bair&qid=1693876661&sprefix=macbook%2Bai%2Caps%2C194&sr=8-2&ufe=app_do%3Aamzn1.fos.765d4786-5719-48b9-b588-eab9385652d5&th=1&linkCode=li3&tag=budgetconsc07-20&linkId=ac907c297075b4895309dd454f365655&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CDJRL5RZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=budgetconsc07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=budgetconsc07-20&language=en_US&l=li3&o=1&a=B0CDJRL5RZ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-### Tip #4: External/portable batteries (power bank) are a must
+Having a laptop also helps **a lot** when you need to do last minute planning such as researching places to eat or things to do during your trip. I like to make plans and have a sense of direction, but other folks may be more spontaneous and go with the flow 😝!
+
+### Tip #5: Portable battery (power bank) is a must
 Portable battery banks are highly, highly recommend especially since you will likely be relying on Google Maps for navigation. And for us, we use Apple Pay for most of our purchases. I have a 15,000 mAh battery that can easily charge my iPhone to 100% with battery still remaining on the power bank. 
 
 I recommend getting something at least 10,000 mAH or higher such as this [Anker 313 Power Bank](https://amzn.to/3r2wkcb). 
@@ -51,7 +55,7 @@ I recommend getting something at least 10,000 mAH or higher such as this [Anker 
 
 Ideally, you want something lightweight, compact, and portable. Your back and shoulder will thank you after a long day of walking and doing touristy things.
 
-### Tip #5: "Cash is King"
+### Tip #6: "Cash is King"
 
 Most mom-and-pop restaurants in Flushing and Chinatown accept **cash only**. So break out your Benjamin's from the piggybank! 
 
