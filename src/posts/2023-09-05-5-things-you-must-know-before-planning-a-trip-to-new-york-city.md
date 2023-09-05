@@ -1,7 +1,7 @@
 ---
-title: 5 THINGS You Must Know Before Planning A Trip to New York City
-description: Learn tips on how to maximize your vacation time, how to save on
-  your flights, and essentials to bring with you on your trip.
+title: 5 THINGS You Must Know Before Planning A Trip
+description: Learn how to maximize your vacation time, how to save money on your
+  flights, and essentials to bring with you on your trip
 date: 2023-09-05T00:44:29.856Z
 ---
 Planning a trip is almost always stressful, especially if you are someone who is meticulous about every little detail. I will be sharing 5 travel tips below that you need to know to prepare for your trip.
