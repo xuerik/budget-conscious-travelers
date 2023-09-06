@@ -13,19 +13,30 @@ New York City is not only a global hub for culture, business, and entertainment 
 
 One of the standout features of JFK Airport is its extensive network of international flights. With direct connections to nearly every major city across the globe, JFK provides unparalleled access to international destinations. Whether you're traveling for business or leisure, the wide range of airlines and routes available at JFK ensures that you can reach your desired location with ease.
 
+This was especially true for us back in April of this year when we flew into NYC for the first time. We were departing from LAX and most of the airplanes only serviced from LAX to JFK. And even when we did find flights to LaGuardia, most of the time, it was much more expensive!
+
+
 ### Modern Facilities and Amenities
 
 JFK Airport boasts state-of-the-art facilities designed to enhance passenger comfort and convenience. From spacious and well-equipped terminals to a plethora of dining options, shopping outlets, and lounges, JFK offers a premium travel experience. The airport's commitment to modernity and passenger satisfaction is evident in its sleek architecture, efficient navigation systems, and top-notch customer service.
 
+Of the two airports, LaGuardia is the older of the two (1939 vs 1948), while JFK is newer and a much bigger airport. Even though we have not been to LaGuardia, we can say for sure that the amenities, duty-free shops, and restaurants are definitely nice. On the final day of our trip, we were nostalgic and can confidently say we'll be back to NYC again in the future!
+
 ### Accessibility and Ground Transportation
 
 Situated in Queens, JFK Airport enjoys excellent accessibility from various parts of New York City. The airport is well-connected by public transportation, including subway lines and buses, making it easily accessible for both local residents and tourists. Additionally, JFK provides ample parking facilities and efficient ground transportation options, such as taxis, ride-sharing services, and car rentals, ensuring seamless connectivity to and from the airport.
+
+Aside from minor hiccups on our end of not being able to find the AirTrain and difficulties navigating to Jamaica Station, we wholeheartedly agree that the MTA (metro system) in New York is excellent   👌. Coming from Los Angeles where having a car is a must, we were extremely glad that we did not have to rent a car nor book rideshare (Uber, Lyft, Taxi) from the airport to our first destination, Flushing.
 
 ## LaGuardia Airport
 
 ### Proximity to Manhattan
 
 One of the key advantages of LaGuardia Airport is its close proximity to Manhattan, the heart of New York City. Located in Queens, LaGuardia offers a convenient option for travelers seeking quick access to the city's vibrant attractions, renowned landmarks, and business centers. The relatively shorter distance between LaGuardia and Manhattan can save valuable time, especially for those with tight schedules or short layovers.
+
+Even though LaGuardia is also located in Queens, it is located in the northern part of the city and is only 10 minutes away from Flushing where delicious Chinese food awaits! 🤤 If Flushing is your first or one of your destinations, I highly recommend flying into LaGuardia if possible. Transportation from LaGuardia to Flushing is much closer at 40 minutes as opposed to 1 hour, 15 minutes from JFK.
+
+Similarly, if your first stop is northern Manhattan such as Times Square or any part of Midtown, then going from LaGuardia would be a much shorter ride. On the other hand, if you are going to lower Manhattan, Financial District and Brooklyn then JFK would be preferable!
 
 ### Recent Renovations and Modernization
 
@@ -35,6 +46,7 @@ LaGuardia Airport has undergone significant renovations to upgrade its facilitie
 
 While JFK Airport excels in international connectivity, LaGuardia Airport shines as a domestic flight hub. It serves as a major gateway for travelers within the United States, with a wide range of airlines offering extensive domestic routes. If your travel plans primarily involve exploring different corners of the United States, LaGuardia's strong domestic flight network can provide you with convenient and direct connections to numerous cities nationwide.
 
-## Conclusion:
+## Conclusion
+
 Both JFK Airport and LaGuardia Airport have their unique strengths, making them ideal choices for different types of travelers. While JFK boasts global connectivity, modern facilities, and accessibility, LaGuardia offers proximity to Manhattan, recent renovations, and a focus on domestic flights. Understanding these distinctions can help you make an informed decision based on your travel needs and preferences. Regardless of which airport you choose, rest assured that both JFK and LaGuardia are committed to providing a seamless and enjoyable airport experience as you embark on your journey to or from the vibrant city of New York.
 
