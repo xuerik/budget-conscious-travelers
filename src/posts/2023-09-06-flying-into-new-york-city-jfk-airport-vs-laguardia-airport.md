@@ -1,13 +1,18 @@
 ---
-title: "Flying into New York City: JFK Airport vs LaGuardia Airport"
+title: "Flying into New York City: JFK vs LaGuardia Airport"
 description: Get ready to compare the best of the Big Apple's airports as we
   dive into the showdown between JFK Airport and LaGuardia Airport, highlighting
   their unique advantages in this ultimate airport face-off!
 date: 2023-09-06T05:21:45.911Z
 ---
-New York City is not only a global hub for culture, business, and entertainment but also a bustling center for air travel. When it comes to airports, two prominent names come to mind: John F. Kennedy International Airport (JFK) and LaGuardia Airport. Both airports play vital roles in connecting millions of passengers to destinations worldwide. 
 
-In this blog post, we will compare JFK Airport and LaGuardia Airport, highlighting three reasons why each airport offers unique advantages over the other. Whether you're a frequent flyer or planning your first trip to the Big Apple, understanding the strengths of these airports can help you make informed decisions and enhance your travel experience.
+As a frequent traveler, I've had the opportunity to explore many airports around the world. But none are quite as fascinating as the two major airports that serve New York City: John F. Kennedy International Airport (JFK) and LaGuardia Airport (LGA).
+
+As a global hub for culture, business, and entertainment, NYC is a bustling center for air travel. JFK and LGA are the two primary airports that connect millions of passengers to destinations worldwide.
+
+Even though I've only personally experienced flying in and out of JFK, I've done much research to learn about each of their unique strengths and weaknesses. In this blog post, I'll share three reasons why each airport stands out, and why you might choose one over the other for your next trip.
+
+Whether you're a seasoned flyer or planning your first trip to the Big Apple, understanding the advantages of JFK and LGA can help you make informed decisions and enhance your travel experience. So, let's dive in!
 
 ## John F. Kennedy International Airport (JFK)
 
@@ -42,7 +47,7 @@ Aside from minor hiccups on our end of not being able to find the AirTrain and d
 
 One of the key advantages of LaGuardia Airport is its close proximity to Manhattan, the heart of New York City. Located in Queens, LaGuardia offers a convenient option for travelers seeking quick access to the city's vibrant attractions, renowned landmarks, and business centers. The relatively shorter distance between LaGuardia and Manhattan can save valuable time, especially for those with tight schedules or short layovers.
 
-Even though LaGuardia is also located in Queens, it is located in the northern part of the city and is only 10 minutes away from Flushing where delicious Chinese food awaits! 🤤 If Flushing is your first or one of your destinations, I highly recommend flying into LaGuardia if possible. Transportation from LaGuardia to Flushing is much closer at 40 minutes as opposed to 1 hour, 15 minutes from JFK.
+Even though LaGuardia is also located in Queens, it is located in the northern part of the city and is only 10 minutes away from Flushing where delicious Chinese food awaits! 🤤 If Flushing is your first or one of your destinations, I highly recommend flying into LaGuardia if possible. Transportation from LaGuardia to Flushing is much closer at 10 minutes ONLY by car (40 minutes by MTA) as opposed to 1 hour, 15 minutes by MTA from JFK.
 
 Similarly, if your first stop is northern Manhattan such as Times Square or any part of Midtown, then going from LaGuardia would be a much shorter ride. On the other hand, if you are going to lower Manhattan, Financial District and Brooklyn then JFK would be preferable!
 

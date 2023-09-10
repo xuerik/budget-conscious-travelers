@@ -19,7 +19,7 @@ The reason behind this is that the flight itself is about 5-6 hours and combined
 
 If you're flying out at 9-10 PM or later, you will likely arrive in the early morning which is perfect way to start your day! This also assumes that you can sleep easily on planes and aren't bothered by cabin noises and crying babies. 
 
-Invest in a good set of noise-cancelling headphones. I hear the [Sony WH-1000XM5](https://amzn.to/3sDTRAz) headphones are pretty good.
+Invest in a good set of noise-cancelling headphones. May and I both have a set of AirPods Pro, but we would have happily enjoyed a pair of noise-cancelling headphones like the [Sony WH-1000XM5](https://amzn.to/3sDTRAz) headphones which has great reviews!
 
 <a href="https://www.amazon.com/Sony-WH-1000XM5-Headphones-Hands-Free-WH1000XM5/dp/B0BXYCS74H?keywords=sony%2Bwh-1000xm5&qid=1693814090&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sony%2B%2Caps%2C152&sr=8-3&th=1&linkCode=li3&tag=budgetconsc07-20&linkId=a2f2096f6f2fb00ec60e72be069a8c5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BXYCS74H&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=budgetconsc07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=budgetconsc07-20&language=en_US&l=li3&o=1&a=B0BXYCS74H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -33,6 +33,11 @@ Now you're probably wondering why it didn't cost 46,000 points and that is becau
 ### Tip #3: Get transparent bags/pouches for toiletries
 
 <a href="https://www.amazon.com/Toiletry-Packism-Approved-Cosmetic-Compliant/dp/B07Z8QZPMG?keywords=airport+liquid+travel+bag&qid=1693808632&sprefix=airport+liquid+%2Caps%2C159&sr=8-3&linkCode=li3&tag=budgetconsc07-20&linkId=93c28a4cf8c5e59f731ae228ebbba5dd&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Z8QZPMG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=budgetconsc07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=budgetconsc07-20&language=en_US&l=li3&o=1&a=B07Z8QZPMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The TSA has a [3-1-1 rule](https://www.tsa.gov/travel/travel-tips/travel-checklist) which is:
+- 3.4 ounces or less per container
+- 1 quart size, clear, plastic, zip top bag (all liquids must fit in bag)
+- 1 bag per passenger
 
 Since both of our flights to and from NYC only allowed 1 carry-on per person, we had to be creative with packing up our belongings. 
 
